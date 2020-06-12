@@ -1,0 +1,2 @@
+# compu
+Proyecto de compu
